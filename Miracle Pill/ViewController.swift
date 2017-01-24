@@ -44,6 +44,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         statePicker.isHidden = false
         pcField.isHidden = true;
         pcLabel.isHidden = true;
+        buyBtn.isHidden = true;
     }
     
     
@@ -80,6 +81,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         statePicker.isHidden = true;
         pcField.isHidden = false;
         pcLabel.isHidden = false;
+        buyBtn.isHidden = false;
     }
 
 }

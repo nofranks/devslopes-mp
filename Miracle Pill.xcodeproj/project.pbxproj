@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					4F5AB3B01E354DA80056AE9C = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = REDEFT642F;
 						ProvisioningStyle = Automatic;
 					};
 					4F5AB3C41E354DA80056AE9C = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = REDEFT642F;
 				INFOPLIST_FILE = "Miracle Pill/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.olly.Miracle-Pill";
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = REDEFT642F;
 				INFOPLIST_FILE = "Miracle Pill/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.olly.Miracle-Pill";
@@ -505,6 +508,7 @@
 				4F5AB3DB1E354DA80056AE9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F5AB3DC1E354DA80056AE9C /* Build configuration list for PBXNativeTarget "Miracle PillTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				4F5AB3DE1E354DA80056AE9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F5AB3DF1E354DA80056AE9C /* Build configuration list for PBXNativeTarget "Miracle PillUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				4F5AB3E11E354DA80056AE9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
